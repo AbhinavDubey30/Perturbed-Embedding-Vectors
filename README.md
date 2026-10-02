@@ -105,7 +105,7 @@ the same pattern with the corresponding attack substituted.
 
 The jailbreak rates in the paper can be recomputed from the label files alone, without running
 any model.
-
+<!
 ## Citation
 
 If you use this code or data, please cite the paper:
@@ -117,4 +117,5 @@ If you use this code or data, please cite the paper:
   journal = {arXiv preprint},
   year    = {2026}
 }
+>
 ```
