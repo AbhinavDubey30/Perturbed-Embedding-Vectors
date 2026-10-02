@@ -1,7 +1,7 @@
 # Jailbreaking Open-Weight LLMs via Random Embedding Perturbations: runs, labels and code
 
 Code and data for the paper
-*Jailbreaking Open-Weight LLMs via Random Embedding Perturbations* by Abhinav Dubey.
+*Jailbreaking Open-Weight LLMs via Random Embedding Perturbations*.
 
 The repository holds every model response generated for the paper, the safe / unsafe /
 degenerate label of each response, the Colab notebooks that produced them, and the inference
