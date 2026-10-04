@@ -2,8 +2,14 @@
 
 Code and data for the paper
 *Jailbreaking Open-Weight LLMs via Random Embedding Perturbations*.
-Authored by amazing people of the Theoretical Computer Science Department of University of California, Santa Cruz.
-This work has significance contributions by Scott Sirri, Prof. Vaggos Chatziafratis and Prof. C. Seshadhri
+
+
+Authored by the amazing people of the Theoretical Computer Science Department of University of California, Santa Cruz.
+
+
+This work has significance contributions by Scott Sirri, Prof. Vaggos Chatziafratis, Prof. C. Seshadhri and myself.
+
+
 The repository holds every model response generated for the paper, the safe / unsafe /
 degenerate label of each response, the Colab notebooks that produced them, and the inference
 scripts the notebooks import. This covers the Perturbed Embedding Vector (PEV) attack and the
