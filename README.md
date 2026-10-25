@@ -3,6 +3,7 @@
 Code and data for the paper
 *Jailbreaking Open-Weight LLMs via Random Embedding Perturbations*.
 
+Link to the pre-print of the paper- https://arxiv.org/abs/2610.07125 
 
 Authored by the amazing people of the Theoretical Computer Science Department of University of California, Santa Cruz.
 
